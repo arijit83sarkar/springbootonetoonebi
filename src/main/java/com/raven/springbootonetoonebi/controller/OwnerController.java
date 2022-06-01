@@ -1,7 +1,5 @@
 package com.raven.springbootonetoonebi.controller;
 
-import java.util.Optional;
-
 import com.raven.springbootonetoonebi.entity.Owner;
 import com.raven.springbootonetoonebi.repository.OwnerRepository;
 
